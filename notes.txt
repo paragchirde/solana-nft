@@ -1,0 +1,27 @@
+BIP39 - Bitcoin Improvement proposal
+
+==============================================================================
+pubkey: 7rfmLsAgKFZGq1kdTmLWXMcZEFz3RunGmpiPEPEzhS2S
+==============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+motor cream knee fiscal lemon kind letter frog require grocery midnight degree
+==============================================================================
+
+initialized config for a candy machine with publickey: 8mxLQyc2abhFaWQPYEhVcgbUMrw3vBDfDBewWn7bEhDH
+
+*****************2*************************
+Wrote new keypair to ./config2.json
+=================================================================================
+pubkey: 2xZfof2NmAZYqXKegCqpHJpioPmRu834W14pXWTDYehn
+=================================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+family sponsor custom lounge extend cream fence school squeeze owner oval clarify
+=================================================================================
+
+Gc1eQfYmdjHJomArNrHaCNvrpQW4fsAZzhGYmKsytiNx
+
+
+
+
+PC: 1.94626 -> 2.04626
+AH: 0.36406 -> 
